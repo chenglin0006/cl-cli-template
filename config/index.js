@@ -1,39 +1,39 @@
 const url = {
 	development: {
-		targetUrl: 'http://customer-dev.bnq.com.cn',
+		targetUrl: 'http://demo-dev.bnq.com.cn',
 		apiUrl: 'http://web.futureshop.dev-zt.bnq.com.cn:8088',
-		apiUrlFilter: '/customerAdmin',
-		authUrl: 'http://auth-dev.bnq.com.cn',
-		loginAddress: 'http://auth-dev.bnq.com.cn/login/login.html',
-		authUrlFilter: '/auth',
+		apiUrlFilter: '/demoAdmin',
+		demoUrl: 'http://demo-dev.bnq.com.cn',
+		loginAddress: 'http://demo-dev.bnq.com.cn/login/login.html',
+		demoUrlFilter: '/demo',
 		port: 8088,
 		autoOpenBrowser: true, 
-		proxyFilter: '/customerAdmin',
+		proxyFilter: '/demoAdmin',
         addressUrl:'http://web.futureshop.dev-zt.bnq.com.cn:8088/areas/district',
 	},
 	prodDev: {
 		apiUrl: 'http://192.168.200.54:8080/',
 		apiUrlFilter: '/productAdmin',
-		addressUrl:'http://customer-dev.bnq.com.cn/areas/district',
-		authUrl: 'http://auth-dev.bnq.com.cn',
-		loginAddress: 'http://auth-dev.bnq.com.cn/login/login.html',
-		authUrlFilter: '/auth'
+		addressUrl:'http://demo-dev.bnq.com.cn/areas/district',
+		demoUrl: 'http://demo-dev.bnq.com.cn',
+		loginAddress: 'http://demo-dev.bnq.com.cn/login/login.html',
+		demoUrlFilter: '/demo'
 	},
 	test: {
-		apiUrl: 'http://customer-test.bnq.com.cn',
-		apiUrlFilter: '/customerAdmin',
-		addressUrl:'http://customer-test.bnq.com.cn/areas/district',
-		authUrl: 'http://auth-test.bnq.com.cn',
-		loginAddress: 'http://auth-test.bnq.com.cn/login/login.html',
-		authUrlFilter: '/auth'
+		apiUrl: 'http://demo-test.bnq.com.cn',
+		apiUrlFilter: '/demoAdmin',
+		addressUrl:'http://demo-test.bnq.com.cn/areas/district',
+		demoUrl: 'http://demo-test.bnq.com.cn',
+		loginAddress: 'http://demo-test.bnq.com.cn/login/login.html',
+		demoUrlFilter: '/demo'
 	},
 	production: {
-		apiUrl: 'http://customer.bnq.com.cn',
-		apiUrlFilter: '/customerAdmin',
-		addressUrl:'http://customer.bnq.com.cn/areas/district',
-		authUrl: 'http://auth.bnq.com.cn',
-		loginAddress: 'http://auth.bnq.com.cn/login/login.html',
-		authUrlFilter: '/auth'
+		apiUrl: 'http://demo.bnq.com.cn',
+		apiUrlFilter: '/demoAdmin',
+		addressUrl:'http://demo.bnq.com.cn/areas/district',
+		demoUrl: 'http://demo.bnq.com.cn',
+		loginAddress: 'http://demo.bnq.com.cn/login/login.html',
+		demoUrlFilter: '/demo'
   }
 }
 

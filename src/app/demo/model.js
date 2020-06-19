@@ -1,5 +1,6 @@
 import { message } from 'antd';
 import { Tools, Http } from '../../util';
+import Service from './Service';
 
 export default {
     state: {
@@ -53,12 +54,10 @@ export default {
 
     },
     effects: {
-        async asyncGetList(data, rootState) {
-            await Http.get('/customer/query.do', data).then((res) => {
-                this.getList(res);
-            }, (error) => {
-                console.log(error);
-            })
+        async asyncGetList(params, rootState) {
+            const data = await Service.getList(params);
+            this.getList(data);
+            return data.result;
         },
         async asyncGetDetail(data, rootState) {
             const res = await Http.post('/customer/detail.do', data);

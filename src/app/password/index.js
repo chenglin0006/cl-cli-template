@@ -1,9 +1,3 @@
-/*
- * @Descripttion: descripttion
- * @Author: guangyi.zhang
- * @Date: 2020-02-10 09:36:26
- * @LastEditTime: 2020-03-24 10:42:53
- */
 import React, { Component } from 'react';
 import { Modal, Form, Input } from 'antd';
 import { LockOutlined } from '@ant-design/icons'

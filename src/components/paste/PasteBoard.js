@@ -1,9 +1,3 @@
-/*
- * @Descripttion: descripttion
- * @Author: guangyi.zhang
- * @Date: 2020-01-13 14:27:13
- * @LastEditTime: 2020-02-20 14:47:34
- */
 import * as React from 'react';
 import { Tag, Button } from 'antd';
 import classnames from 'classnames';

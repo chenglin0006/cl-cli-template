@@ -1,9 +1,3 @@
-/*
-* @Descripttion: descripttion
-* @Author: guangyi.zhang
-* @Date: 2020-02-18 15:01:44
- * @LastEditTime: 2020-03-24 15:19:29
-*/
 import React, { Component } from 'react';
 import PropTypes from 'prop-types';
 import { Form, Input, Button, Select, DatePicker } from 'antd';

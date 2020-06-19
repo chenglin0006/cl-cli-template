@@ -1,10 +1,4 @@
 /*
- * @Descripttion: descripttion
- * @Author: guangyi.zhang
- * @Date: 2020-02-18 15:00:49
- * @LastEditTime: 2020-03-20 15:47:42
- */
-/*
  *DetailComponent组件中props
  * value: PropTypes.object 详情页面显示的标题对应的值
  * data: PropTypes.arrayOf(PropTypes.object) 详情页面显示的标题数据

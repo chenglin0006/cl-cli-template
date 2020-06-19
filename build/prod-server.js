@@ -1,9 +1,3 @@
-/*
- * @Descripttion: descripttion
- * @Author: guangyi.zhang
- * @Date: 2020-04-02 15:17:22
- * @LastEditTime: 2020-04-03 15:09:17
- */
 const express = require('express')
 const webpack = require('webpack')
 const webpackConfig = require('./webpack.prod.config');

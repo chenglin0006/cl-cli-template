@@ -1,9 +1,3 @@
-/*
- * @Descripttion: descripttion
- * @Author: guangyi.zhang
- * @Date: 2020-02-10 09:36:26
- * @LastEditTime: 2020-03-19 10:22:43
- */
 import { init } from '@rematch/core';
 import createLoadingPlugin from '@rematch/loading';
 import models from './models';

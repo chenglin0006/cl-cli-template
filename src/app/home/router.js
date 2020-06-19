@@ -1,9 +1,3 @@
-/*
- * @Descripttion: descripttion
- * @Author: guangyi.zhang
- * @Date: 2020-02-10 09:36:26
- * @LastEditTime: 2020-03-23 15:00:37
- */
 import React, { Suspense, lazy  } from 'react';
 import { Switch, Route } from 'react-router-dom';
 import {Spin} from 'antd';

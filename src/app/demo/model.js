@@ -1,9 +1,3 @@
-/*
- * @Descripttion: descripttion
- * @Author: guangyi.zhang
- * @Date: 2020-03-18 16:56:20
- * @LastEditTime: 2020-03-24 09:53:50
- */
 import { message } from 'antd';
 import { Tools, Http } from '../../util';
 

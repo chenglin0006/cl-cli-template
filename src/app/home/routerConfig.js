@@ -1,9 +1,3 @@
-/*
- * @Descripttion: descripttion
- * @Author: guangyi.zhang
- * @Date: 2020-02-10 09:36:26
- * @LastEditTime: 2020-04-20 10:07:52
- */
 export default [
     {
         path: '/',

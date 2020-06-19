@@ -1,9 +1,3 @@
-/*
- * @Descripttion: descripttion
- * @Author: guangyi.zhang
- * @Date: 2020-04-02 15:17:22
- * @LastEditTime: 2020-04-03 15:14:28
- */
 const merge = require('webpack-merge');
 const webpackBaseConfig = require('./webpack.base.config.js');
 const MiniCssExtractPlugin = require('mini-css-extract-plugin');

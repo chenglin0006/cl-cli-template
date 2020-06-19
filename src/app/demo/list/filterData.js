@@ -1,9 +1,3 @@
-/*
- * @Descripttion: descripttion
- * @Author: guangyi.zhang
- * @Date: 2020-02-18 17:11:14
- * @LastEditTime: 2020-03-23 17:40:54
- */
 export const filterData = (option) => [
 	{
 		id: 'customerName',

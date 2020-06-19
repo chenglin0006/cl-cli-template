@@ -1,9 +1,3 @@
-<!--
- * @Descripttion: descripttion
- * @Author: guangyi.zhang
- * @Date: 2020-02-18 15:02:05
- * @LastEditTime: 2020-02-18 15:02:22
- -->
 Filter组件：后台管理系统查询条件设置，查询条件需要options由父组件传递到子组件
 例如：
 	options=[

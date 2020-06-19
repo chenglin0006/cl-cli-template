@@ -1,9 +1,3 @@
-/*
- * @Descripttion: descripttion
- * @Author: guangyi.zhang
- * @Date: 2020-02-18 17:11:14
- * @LastEditTime: 2020-04-21 15:49:47
- */
 import React, { Component } from 'react';
 import { filterData } from './filterData';
 import { connect } from 'react-redux';

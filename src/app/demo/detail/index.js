@@ -1,9 +1,3 @@
-/*
- * @Descripttion: descripttion
- * @Author: guangyi.zhang
- * @Date: 2020-02-10 09:36:26
- * @LastEditTime: 2020-03-20 15:49:05
- */
 import React, {Component} from 'react';
 import {connect} from 'react-redux'
 import { Tools } from '../../../util'

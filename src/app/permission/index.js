@@ -1,9 +1,3 @@
-/*
- * @Descripttion: descripttion
- * @Author: guangyi.zhang
- * @Date: 2020-02-10 09:36:26
- * @LastEditTime: 2020-02-18 16:21:44
- */
 import React from 'react';
 import PermissionImage from '../../images/permission.png';
 import './index.less';

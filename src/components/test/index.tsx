@@ -1,9 +1,3 @@
-/*
- * @Descripttion: descripttion
- * @Author: guangyi.zhang
- * @Date: 2020-03-24 16:46:55
- * @LastEditTime: 2020-04-21 15:17:58
- */
 import React, { useState, useEffect } from 'react';
 function ProfilePageFunction(props: any) {
     console.log(props)

@@ -1,9 +1,3 @@
-/*
- * @Descripttion: descripttion
- * @Author: guangyi.zhang
- * @Date: 2020-02-10 09:36:26
- * @LastEditTime: 2020-04-21 15:21:51
- */
 //设置NODE_ENV
 process.env.CURRENT_ENV = 'development';
 

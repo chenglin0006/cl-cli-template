@@ -1,9 +1,3 @@
-/*
- * @Descripttion: descripttion
- * @Author: guangyi.zhang
- * @Date: 2020-02-10 09:36:26
- * @LastEditTime: 2020-03-19 09:22:56
- */
 import React, { Component } from 'react';
 import sha1 from 'js-sha1';
 import Toast from '../../components/prompt/toast';

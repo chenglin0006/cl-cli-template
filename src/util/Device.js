@@ -1,8 +1,3 @@
-/**
- * @author 王发靖 kokoqq130
- * @date 2019/2/19
-*/
-
 import { enquireScreen } from 'enquire-js';
 
 

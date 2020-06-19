@@ -1,9 +1,3 @@
-/*
- * @Descripttion: descripttion
- * @Author: guangyi.zhang
- * @Date: 2020-02-10 09:36:26
- * @LastEditTime: 2020-04-20 16:57:00
- */
 import React from 'react';
 import ReactDOM from 'react-dom';
 import { Provider } from 'react-redux';

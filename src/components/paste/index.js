@@ -1,9 +1,3 @@
-/*
- * @Descripttion: descripttion
- * @Author: guangyi.zhang
- * @Date: 2020-01-13 14:27:13
- * @LastEditTime: 2020-03-23 15:28:03
- */
 import * as React from 'react';
 import { Modal, Input } from 'antd';
 import Icon from '@ant-design/icons'

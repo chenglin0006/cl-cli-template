@@ -1,0 +1,30 @@
+<!--
+ * @Descripttion: descripttion
+ * @Author: guangyi.zhang
+ * @Date: 2020-02-10 09:36:26
+ * @LastEditTime: 2020-04-18 17:23:40
+ -->
+<!DOCTYPE html>
+<html lang="en">
+<head>
+	<meta charset="UTF-8">
+	<meta name="keywords" content="html5,css3,react, redux, react-router">
+    <meta name="author" content="guangyi.zhang">
+	<title><%= htmlWebpackPlugin.options.title %></title>
+	<link rel="shortcut icon" type="image/x-icon" href="/favicon.ico">
+	<!--[if IE 9]>
+	<link rel="stylesheet" type="text/css" href="/reset/IE9.css" />
+	<![endif]-->
+	<link rel="stylesheet" href="/reset/reset.css">
+    <!-- 针对IE9/10兼容 -->
+	<script type="text/javascript" src="/reset/IE.js"></script>
+</head>
+<body>
+    <div id="app"></div>
+    <!-- 动态polyfill -->
+    <script src="https://cdn.polyfill.io/v2/polyfill.min.js"></script>
+    <!-- react、react-dom cdn 加载 -->
+    <script src="https://unpkg.com/react@16/umd/react.production.min.js"></script>
+    <script src="https://unpkg.com/react-dom@16/umd/react-dom.production.min.js"></script>
+</body>
+</html>

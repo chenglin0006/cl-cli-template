@@ -1,10 +1,3 @@
-/*
- * @Descripttion: descripttion
- * @Author: guangyi.zhang
- * @Date: 2020-04-02 15:17:22
- * @LastEditTime: 2020-04-20 11:31:40
- */
-
 process.env.CURRENT_ENV = 'production';
 const merge = require('webpack-merge');
 const webpackBaseConfig = require('./webpack.base.config.js');

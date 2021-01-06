@@ -55,7 +55,7 @@
     "@rematch/core": "^1.4.0",
     "@rematch/loading": "^1.2.1",
     "antd": "^4.0.4",
-    "axios": "^0.19.2",
+    "axios": "^0.21.1",
     "enquire-js": "^0.2.1",
     "exports-loader": "^0.7.0",
     "js-sha1": "^0.6.0",
